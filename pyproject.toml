@@ -2,7 +2,7 @@
 name = "AudiPy"
 version = "0.3.0"
 description = "Analyze data through audio."
-authors = ["Nick <NickSetYourEmailHere@gmail.com>"]
+authors = ["Nick Stephens<robert.nicholas.stephens@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [{include = "AudiPy"}]
